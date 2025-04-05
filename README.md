@@ -16,11 +16,12 @@ I’m an IT Lab Analyst with a strong passion for cybersecurity and penetration 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="shahir-hassoun_| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="shahir-hassoun| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
 
-[linkedin]:www.linkedin.com/in/shahir-hassoun
+[LinkedIn](https://www.linkedin.com/in/shahir-hassoun)
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
