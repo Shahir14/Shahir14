@@ -20,7 +20,7 @@ I’m an IT Lab Analyst with a strong passion for cybersecurity and penetration 
 
 
 
-[linkedin]: https://linkedin.com/in/shahirhassoun__________
+[linkedin]:www.linkedin.com/in/shahir-hassoun
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
