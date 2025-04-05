@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/shahirhassoun/">Shahir Hassoun</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/shahir-hassoun/">Shahir Hassoun</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I’m an IT Lab Analyst with a strong passion for cybersecurity and penetration testing. I thrive in hands-on environments where I can analyze systems, identify vulnerabilities, and apply defensive and offensive security techniques. 
 
